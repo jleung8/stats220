@@ -1,5 +1,5 @@
 # stats220 repository
-## purposes of the repository
+## purpose of the repository
 It is used to store my projects of stats220
 
 ### WHAT YOU WILL FIND HERE
